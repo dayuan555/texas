@@ -1,0 +1,3 @@
+[submodule "framework/cocos2d"]
+	path = framework/cocos2d
+	url = https://github.com/dayuan555/cocos2d2
